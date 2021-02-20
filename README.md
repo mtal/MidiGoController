@@ -12,7 +12,7 @@ should be loaded for the cursor and the keybindings.
 The idea is that you will probably want different ones for 19x19 and 9x9 or on different servers.
 
 ## Cursor config format
-###Example
+### Example
 19,19
 100,100
 20,20
